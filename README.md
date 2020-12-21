@@ -1,2 +1,2 @@
-# -Installation-scripts
+# Installation-scripts
  Development tools installation
