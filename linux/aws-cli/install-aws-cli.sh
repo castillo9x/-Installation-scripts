@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Install Ansible
+# Install AWS-Cliaws 
 echo "|*** Updare Repository"
 sudo apt update
 echo "|*** Install, update and verify"
-sudo apt install ansible -y && ansible --version
+sudo apt-get install awscli -y && aws --version
 echo "|*** Verify the installation"
